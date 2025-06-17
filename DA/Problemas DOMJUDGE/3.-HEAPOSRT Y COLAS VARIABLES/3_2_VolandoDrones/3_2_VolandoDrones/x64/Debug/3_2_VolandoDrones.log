@@ -1,0 +1,18 @@
+﻿  3_2_VolandoDrones.cpp
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3.-HEAPOSRT Y COLAS VARIABLES\3_2_VolandoDrones\3_2_VolandoDrones\PriorityQueue.h(46,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3.-HEAPOSRT Y COLAS VARIABLES\3_2_VolandoDrones\3_2_VolandoDrones\PriorityQueue.h(44): message : al compilar la función del miembro clase plantilla "void PriorityQueue<pila,std::less<T>>::push(const T &)"
+          with
+          [
+              T=pila
+          ]
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3.-HEAPOSRT Y COLAS VARIABLES\3_2_VolandoDrones\3_2_VolandoDrones\3_2_VolandoDrones.cpp(47): message : Vea la referencia a la creación de una instancia de la función plantilla "void PriorityQueue<pila,std::less<T>>::push(const T &)" que se está compilando
+          with
+          [
+              T=pila
+          ]
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3.-HEAPOSRT Y COLAS VARIABLES\3_2_VolandoDrones\3_2_VolandoDrones\3_2_VolandoDrones.cpp(39): message : Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<pila,std::less<T>>" que se está compilando
+          with
+          [
+              T=pila
+          ]
+  3_2_VolandoDrones.vcxproj -> C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3.-HEAPOSRT Y COLAS VARIABLES\3_2_VolandoDrones\x64\Debug\3_2_VolandoDrones.exe

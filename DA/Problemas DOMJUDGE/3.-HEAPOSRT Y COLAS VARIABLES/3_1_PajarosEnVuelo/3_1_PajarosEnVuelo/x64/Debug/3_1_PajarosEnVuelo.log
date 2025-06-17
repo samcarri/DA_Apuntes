@@ -1,0 +1,15 @@
+﻿  3_1_PajarosEnVuelo.cpp
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3_1_PajarosEnVuelo\3_1_PajarosEnVuelo\3_1_PajarosEnVuelo.cpp(60,15): warning C4101: 'aux': variable local sin referencia
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3_1_PajarosEnVuelo\3_1_PajarosEnVuelo\PriorityQueue.h(46,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3_1_PajarosEnVuelo\3_1_PajarosEnVuelo\PriorityQueue.h(44): message : al compilar la función del miembro clase plantilla "void PriorityQueue<int,std::greater<int>>::push(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3_1_PajarosEnVuelo\3_1_PajarosEnVuelo\3_1_PajarosEnVuelo.cpp(46): message : Vea la referencia a la creación de una instancia de la función plantilla "void PriorityQueue<int,std::greater<int>>::push(const T &)" que se está compilando
+          with
+          [
+              T=int
+          ]
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3_1_PajarosEnVuelo\3_1_PajarosEnVuelo\3_1_PajarosEnVuelo.cpp(45): message : Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<int,std::greater<int>>" que se está compilando
+  3_1_PajarosEnVuelo.vcxproj -> C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3_1_PajarosEnVuelo\x64\Debug\3_1_PajarosEnVuelo.exe

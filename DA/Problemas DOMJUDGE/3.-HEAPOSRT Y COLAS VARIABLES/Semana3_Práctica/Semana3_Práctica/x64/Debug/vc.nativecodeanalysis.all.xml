@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\3.-HEAPOSRT Y COLAS VARIABLES\Semana3_Práctica\Semana3_Práctica\</FILEPATH>
+      <FILENAME>IndexPQ.h</FILENAME>
+      <LINE>139</LINE>
+      <COLUMN>50</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "+" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "+" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>IndexPQ&lt;int,std::greater&lt;int&gt; &gt;::hundir</FUNCTION>
+    <DECORATED>?hundir@?$IndexPQ@HU?$greater@H@std@@@@AEAAXH@Z</DECORATED>
+    <FUNCLINE>133</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

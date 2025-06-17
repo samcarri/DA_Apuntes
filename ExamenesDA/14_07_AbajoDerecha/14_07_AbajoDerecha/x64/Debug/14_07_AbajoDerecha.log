@@ -1,0 +1,9 @@
+﻿  14_07_AbajoDerecha.cpp
+C:\Users\samue\OneDrive\Escritorio\ExamenesDA\14_07_AbajoDerecha\14_07_AbajoDerecha\Matriz.h(40,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\samue\OneDrive\Escritorio\ExamenesDA\14_07_AbajoDerecha\14_07_AbajoDerecha\Matriz.h(40): message : al compilar la función del miembro clase plantilla "int Matriz<int>::numcols(void) const"
+C:\Users\samue\OneDrive\Escritorio\ExamenesDA\14_07_AbajoDerecha\14_07_AbajoDerecha\14_07_AbajoDerecha.cpp(30): message : Vea la referencia a la creación de una instancia de la función plantilla "int Matriz<int>::numcols(void) const" que se está compilando
+C:\Users\samue\OneDrive\Escritorio\ExamenesDA\14_07_AbajoDerecha\14_07_AbajoDerecha\14_07_AbajoDerecha.cpp(29): message : Vea la referencia a la creación de una instancia de clase plantilla "Matriz<int>" que se está compilando
+C:\Users\samue\OneDrive\Escritorio\ExamenesDA\14_07_AbajoDerecha\14_07_AbajoDerecha\Matriz.h(38,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\samue\OneDrive\Escritorio\ExamenesDA\14_07_AbajoDerecha\14_07_AbajoDerecha\Matriz.h(38): message : al compilar la función del miembro clase plantilla "int Matriz<int>::numfils(void) const"
+C:\Users\samue\OneDrive\Escritorio\ExamenesDA\14_07_AbajoDerecha\14_07_AbajoDerecha\14_07_AbajoDerecha.cpp(29): message : Vea la referencia a la creación de una instancia de la función plantilla "int Matriz<int>::numfils(void) const" que se está compilando
+  14_07_AbajoDerecha.vcxproj -> C:\Users\samue\OneDrive\Escritorio\ExamenesDA\14_07_AbajoDerecha\x64\Debug\14_07_AbajoDerecha.exe

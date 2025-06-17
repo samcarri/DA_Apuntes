@@ -1,0 +1,18 @@
+﻿  2_LAB_Multitarea.cpp
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\2_LAB_Multitarea\2_LAB_Multitarea\PriorityQueue.h(46,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\2_LAB_Multitarea\2_LAB_Multitarea\PriorityQueue.h(44): message : al compilar la función del miembro clase plantilla "void PriorityQueue<tTarea,std::less<T>>::push(const T &)"
+          with
+          [
+              T=tTarea
+          ]
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\2_LAB_Multitarea\2_LAB_Multitarea\2_LAB_Multitarea.cpp(54): message : Vea la referencia a la creación de una instancia de la función plantilla "void PriorityQueue<tTarea,std::less<T>>::push(const T &)" que se está compilando
+          with
+          [
+              T=tTarea
+          ]
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\2_LAB_Multitarea\2_LAB_Multitarea\2_LAB_Multitarea.cpp(41): message : Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<tTarea,std::less<T>>" que se está compilando
+          with
+          [
+              T=tTarea
+          ]
+  2_LAB_Multitarea.vcxproj -> C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\2_LAB_Multitarea\x64\Debug\2_LAB_Multitarea.exe

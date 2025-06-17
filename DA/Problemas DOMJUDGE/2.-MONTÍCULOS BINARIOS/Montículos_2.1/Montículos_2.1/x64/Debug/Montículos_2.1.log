@@ -1,0 +1,14 @@
+﻿  Montículos_2.1.cpp
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\Montículos_2.1\Montículos_2.1\PriorityQueue.h(46,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\Montículos_2.1\Montículos_2.1\PriorityQueue.h(44): message : al compilar la función del miembro clase plantilla "void PriorityQueue<int,std::less<int>>::push(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\Montículos_2.1\Montículos_2.1\Montículos_2.1.cpp(36): message : Vea la referencia a la creación de una instancia de la función plantilla "void PriorityQueue<int,std::less<int>>::push(const T &)" que se está compilando
+          with
+          [
+              T=int
+          ]
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\Montículos_2.1\Montículos_2.1\Montículos_2.1.cpp(31): message : Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<int,std::less<int>>" que se está compilando
+  Montículos_2.1.vcxproj -> C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\Montículos_2.1\x64\Debug\Montículos_2.1.exe

@@ -1,0 +1,18 @@
+﻿  2_2_UnidadCuriosaDeMonitorizacion.cpp
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\2_2_UnidadCuriosaDeMonitorizacion\2_2_UnidadCuriosaDeMonitorizacion\PriorityQueue.h(46,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\2_2_UnidadCuriosaDeMonitorizacion\2_2_UnidadCuriosaDeMonitorizacion\PriorityQueue.h(44): message : al compilar la función del miembro clase plantilla "void PriorityQueue<tUsuario,std::less<T>>::push(const T &)"
+          with
+          [
+              T=tUsuario
+          ]
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\2_2_UnidadCuriosaDeMonitorizacion\2_2_UnidadCuriosaDeMonitorizacion\2_2_UnidadCuriosaDeMonitorizacion.cpp(48): message : Vea la referencia a la creación de una instancia de la función plantilla "void PriorityQueue<tUsuario,std::less<T>>::push(const T &)" que se está compilando
+          with
+          [
+              T=tUsuario
+          ]
+C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\2_2_UnidadCuriosaDeMonitorizacion\2_2_UnidadCuriosaDeMonitorizacion\2_2_UnidadCuriosaDeMonitorizacion.cpp(44): message : Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<tUsuario,std::less<T>>" que se está compilando
+          with
+          [
+              T=tUsuario
+          ]
+  2_2_UnidadCuriosaDeMonitorizacion.vcxproj -> C:\Users\samue\OneDrive\Escritorio\UNIVERSIDAD\Cuarto\DA\2_2_UnidadCuriosaDeMonitorizacion\x64\Debug\2_2_UnidadCuriosaDeMonitorizacion.exe
